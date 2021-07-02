@@ -1,0 +1,2 @@
+C:\Users\KevinXu\Source\Repos\MemoryManagement\Debug\MemoryManagement.exe
+C:\Users\KevinXu\Source\Repos\MemoryManagement\Debug\MemoryManagement.pdb

@@ -1,0 +1,2 @@
+C:\Users\KevinXu\Source\Repos\DiskManagement\Debug\DiskManagement.exe
+C:\Users\KevinXu\Source\Repos\DiskManagement\Debug\DiskManagement.pdb

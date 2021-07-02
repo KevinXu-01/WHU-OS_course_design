@@ -1,0 +1,3 @@
+﻿  ProcessorScheduling.cpp
+C:\Users\KevinXu\Source\Repos\ProcessorScheduling\ProcessorScheduling.cpp(187,22): warning C4018: “<=”: 有符号/无符号不匹配
+  ProcessorScheduling.vcxproj -> C:\Users\KevinXu\Source\Repos\ProcessorScheduling\Debug\ProcessorScheduling.exe

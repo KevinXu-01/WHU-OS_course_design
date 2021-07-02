@@ -1,0 +1,2 @@
+C:\Users\KevinXu\Source\Repos\ProcessCommunication\Debug\ProcessCommunication.exe
+C:\Users\KevinXu\Source\Repos\ProcessCommunication\Debug\ProcessCommunication.pdb
